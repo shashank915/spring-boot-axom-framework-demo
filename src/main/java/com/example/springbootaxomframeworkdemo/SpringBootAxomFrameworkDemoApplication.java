@@ -15,4 +15,5 @@ public class SpringBootAxomFrameworkDemoApplication {
 		SpringApplication.run(SpringBootAxomFrameworkDemoApplication.class, args);
 	}
 
+
 }
